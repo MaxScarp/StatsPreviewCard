@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution FrontendMentor URL]()
-- Live Site URL: [Github live site]()
+- Solution URL: [Solution FrontendMentor URL](https://www.frontendmentor.io/solutions/responsive-stats-panel-made-with-flexboxesmedia-queriescss-and-html-HkxAnOkXB5)
+- Live Site URL: [Github live site](https://maxscarp.github.io/StatsPreviewCard/)
 
 ## My process
 I wrote html watching the design files provided trying to estimate how to divide elements for using flexboxes efficiently.
